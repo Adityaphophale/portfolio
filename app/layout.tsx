@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Aditya Rahul Phophale | Computer Engineer & Developer",
   description: "Personal portfolio of Aditya Rahul Phophale, a Computer Engineering student and aspiring developer",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
